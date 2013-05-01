@@ -4,3 +4,5 @@ Your task is to write an interactive console-based game in which the player shou
 
 The player can request starting a new game in a new labyrinth by entering the command 'restart'. Your program should implement a local top scoreboard which keeps the best results and the names of their authors. Initially, at the program start, the scoreboard is empty. It keeps the top 5 results sorted in ascending order by the number of valid moves performed. When a game is finished by exiting from the labyrinth, the player's result can enter in the top scoreboard if his or her number of moves is less than some of the other achievements staying in the top scoreboard. When the player's result enters the scoreboard, the player should enter his or her name or nickname. The player can request printing the top scoreboard during the game by entering the command 'top'. The player can request stopping the game and exiting from the program the command 'exit'.
 
+...
+
