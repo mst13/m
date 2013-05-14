@@ -6,3 +6,84 @@ The player can request starting a new game in a new labyrinth by entering the co
 
 ...
 
+<pre>
+Welcome to “Labirinth” game. Please try to escape. Use 'top' to view the top scoreboard, 'restart' to start a new game
+and 'exit' to quit the game.
+- - X X X X -
+- X - - - - X
+- X - X X - X
+- X - * X - X
+- X - X - - -
+- X - - - X X
+X - X - - X X
+Enter your move (L=left, R-right, U=up, D=down):<i>L</i>
+- - X X X X -
+- X - - - - X
+- X - X X - X
+- X * - X - X
+- X - X - - -
+- X - - - X X
+X - X - - X X
+Enter your move (L=left, R-right, U=up, D=down): <i>L</i>
+Invalid move!
+Enter your move (L=left, R-right, U=up, D=down): <i>top</i>
+The scoreboard is empty.
+Enter your move (L=left, R-right, U=up, D=down): <i>D</i>
+- - X X X X -
+- X - - - - X
+- X - X X - X
+- X - - X - X
+- X * X - - -
+- X - - - X X
+X - X - - X X
+Enter your move (L=left, R-right, U=up, D=down):<i>D</i>
+- - X X X X -
+- X - - - - X
+- X - X X - X
+- X - - X - X
+- X - X - - -
+- X * - - X X
+X - X - - X X
+Enter your move (L=left, R-right, U=up, D=down):<i> R</i>
+- - X X X X -
+- X - - - - X
+- X - X X - X
+- X - - X - X
+- X - X - - -
+- X - * - X X
+X - X - - X X
+Enter your move (L=left, R-right, U=up, D=down): <i>D</i>
+Congratulations! You escaped in 5 moves.
+Please enter your name for the top scoreboard: Bay Ivan
+Scoreboard:
+1. Bay Ivan --> 5 moves
+Welcome to “Labirinth” game. Please try to escape. Use 'top' to view the top scoreboard, 'restart' to start a new game
+and 'exit' to quit the game.
+- - X X - X -
+X X - - - - X
+- - X - X - X
+- X - * X - X
+- - - X - - -
+- X - - - X -
+X - X X - - -
+Enter your move (L=left, R-right, U=up, D=down): <i>R</i>
+Invalid move!
+Enter your move (L=left, R-right, U=up, D=down): <i>win</i>
+Invalid command!
+Enter your move (L=left, R-right, U=up, D=down): <i>top</i>
+Scoreboard:
+1. Bay Ivan --> 5 moves
+Enter your move (L=left, R-right, U=up, D=down): restart
+Welcome to “Labirinth” game. Please try to escape. Use 'top' to view the top scoreboard, 'restart' to start a new game 
+and 'exit' to quit the game.
+- - X X - X -
+X - X - X - X
+X X - - - - X
+- - X * X - X
+X - - X - - -
+- - - - - X -
+X - X X - - -
+Enter your move (L=left, R-right, U=up, D=down): <i>exit</i>
+Good Bye!
+
+</pre>
